@@ -1,0 +1,12 @@
+.is-done {
+  text-decoration: line-through;
+}
+
+h1 {
+  background-color: red;
+}
+
+.todos {
+  margin-bottom: 5em;
+  background-color: red
+}
